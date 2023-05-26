@@ -35,15 +35,8 @@ export MODE=do_train
 bash scripts/LogiGraph_Roberta.sh /PATH/TO/ROBERTA/LARGE  ## ReClor training
 bash scripts/LogiGraph_Roberta_LogiQA.sh /PATH/TO/ROBERTA/LARGE  ## LogiQA training
 ```
-
-## Citation
-Please cite this paper kindly in your publications if it helps your research.
-```
-@inproceedings{li2022adalogn,
-  title={AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension},
-  author={Li, Xiao and Cheng, Gong and Chen, Ziheng and Sun, Yawei and Qu, Yuzhong},
-  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-  pages={7147--7161},
-  year={2022}
-}
-```
+'''
+以上是AdaLoGN模型的训练方法，也可以在Google Drive上下载他训练好的模型，然后作为Rea-AdaLoGN模型的预训练模型
+export MODE=do_train
+bash scripts/LogiGraph_Roberta.sh /home/wkp/AdaLoGN-main/RECLOR/checkpoints-ReClor
+'''
