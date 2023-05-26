@@ -1,0 +1,13 @@
+[
+  {
+    "context": "In rheumatoid arthritis, the body' s immune system misfunctions by attacking healthy cells in the joints causing the release of a hormone that in turn causes pain and swelling. This hormone is normally activated only in reaction to injury or infection. A new arthritis medication will contain a protein that inhibits the functioning of the hormone that causes pain and swelling in the joints.\n",
+    "question": "The statements above, if true, most strongly support which one of the following conclusions?",
+    "answers": [
+      "Unlike aspirin and other medications that reduce pain and swelling and that are currently available, the new medication would repair existing cell damage that had been caused by rheumatoid arthritis.",
+      "A patient treated with the new medication for rheumatoid arthritis could sustain a joint injury without becoming aware of it.",
+      "Joint diseases other than rheumatoid arthritis would not be affected by the new medication.",
+      "The benefits to rheumatoid arthritis sufferers of the new medication would outweigh the medication's possible harmful side effects."
+    ],
+    "id_string": "predict_6"
+  }
+]
